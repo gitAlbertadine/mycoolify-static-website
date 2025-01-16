@@ -1,0 +1,1 @@
+# My Coolify Static Website
